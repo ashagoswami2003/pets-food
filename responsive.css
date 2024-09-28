@@ -1,0 +1,21 @@
+@media only screen and (max-width:600px) {
+    .logo-con {
+        margin: 0 !important;
+    }
+    .first-left-con h1 {
+        font-size: 40px !important;
+    }
+    .first-left-con p {
+        width: 100% !important;
+    }
+    .button-con {
+        width: 100% !important;
+    }
+    .first-card {
+        width: 90% !important;
+    }
+    .footer-card {
+        width: 100% !important;
+    }
+    
+}
